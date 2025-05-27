@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://siggeko.sokomut.de/Ggi/sitemap.txt
